@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Minimalist Light Theme Palette */
+  --color-background: #FFFFFF; /* Pure white */
+  --color-surface: #F8FAFC; /* slate-50 */
+  --color-surface-light: #F1F5F9; /* slate-100 */
+  
+  /* Text Colors */
+  --color-text-primary: #0F172A; /* slate-900 */
+  --color-text-secondary: #475569; /* slate-600 */
+  --color-text-muted: #94A3B8; /* slate-400 */
+  
+  /* Brand Colors: Corporate Blue & Green */
+  --color-blue: #1E40AF; /* blue-800 - corporate blue */
+  --color-green: #16A34A; /* green-600 - vibrant green */
+  --color-green-hover: #15803D; /* green-700 */
+  --color-accent: #10B981; /* Emerald */
+  --color-bronze: #CD7F32;
+  
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-playfair);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-background text-[#0F172A] font-sans;
+}
+
+/* Glassmorphism for light theme */
+.glass {
+  @apply bg-white/70 backdrop-blur-md border border-slate-200/50 shadow-sm;
+}
+
+.glass-panel {
+  @apply bg-white/90 backdrop-blur-xl border border-slate-200/50 shadow-xl;
+}
+
+.text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-blue to-green;
+}

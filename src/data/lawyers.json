@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "alicia_garcia",
+    "name": "Alicia Annette García Valdez",
+    "image": "/images/extracted/alicia_garcia.jpg",
+    "phone": "55.62.71.31.79 Ext. 122",
+    "cell": "55.12.42.25.87",
+    "email": "alicia.garcia@notaria76.com.mx",
+    "assistants": ["Alexis Emmanuel Rosas García", "Alexis Serrano Gutierrez", "Arturo Giovany Maldonado Sánchez", "Francisco Morales Gallardo", "Helen Ojeda López"],
+    "cv_text": "La licenciada Alicia Annette García Valdez es egresada de la Universidad Iberoamericana Ciudad de México, Campus Santa Fe.\nActualmente es abogada en la notaría 76 de la Ciudad de México a cargo del licenciado Mario Fernando Pérez Salinas y Ramírez."
+  },
+  {
+    "slug": "amanda_posadas",
+    "name": "Amanda Vanessa López Posadas",
+    "image": "/images/extracted/amanda_posadas.jpg",
+    "phone": "55.62.71.31.79 Ext. 113",
+    "cell": "55.12.45.84.21",
+    "email": "amanda.posadas@notaria76.com.mx",
+    "assistants": ["Alejandra Martínez García", "Jesús Eduardo Sandoval Hernández", "Salvador Solis Delgado", "Valeria Moreno Silva"],
+    "cv_text": "La licenciada Amanda V. López Posadas es egresada de la Facultad de Derecho de la Universidad Nacional Autónoma de México.\nActualmente es abogada en la notaría 76 de la Ciudad de México a cargo del licenciado Mario Fernando Pérez Salinas y Ramírez."
+  },
+  {
+    "slug": "angel_duran",
+    "name": "Miguel Ángel Durán Rodríguez",
+    "image": "/images/extracted/angel_duran.jpg",
+    "phone": "55.62.71.31.79 Ext. 123",
+    "cell": "13.04.04.89",
+    "email": "miguel.duran@notaria76.com.mx",
+    "assistants": ["Hugo Zaíd Arteaga Jimenéz", "Melissa Espinosa Aguilar", "Nicolás López Jacal"],
+    "cv_text": "El licenciado Miguel Ángel Durán Rodríguez es egresado del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Ciudad de México.\nActualmente es abogado en la notaría 76 de la Ciudad de México a cargo del licenciado Mario Fernando Pérez Salinas y Ramírez."
+  },
+  {
+    "slug": "nicolas_lopez_jacal",
+    "name": "Nicolás López Jacal",
+    "image": "/images/extracted/nicolas_lopez_jacal.jpg",
+    "phone": "55.62.71.31.79",
+    "cell": "55.61.43.64.33",
+    "email": "nicolas.lopez@notaria76.com.mx",
+    "assistants": ["Aranza Johana Noguez Ordoñez", "Daniela Vianey González Valdovinos"],
+    "cv_text": "El licenciado Nicolás López Jacal es egresado de la Universidad Nacional Autónoma de México.\nActualmente es abogado en la notaría 76 de la Ciudad de México a cargo del licenciado Mario Fernando Pérez Salinas y Ramírez."
+  },
+  {
+    "slug": "osmar_tapia",
+    "name": "Osmar Axel Tapia Pérez",
+    "image": "/images/extracted/osmar_tapia.jpg",
+    "phone": "55.62.71.31.79 Ext. 103",
+    "cell": "55.79.47.79.57",
+    "email": "osmar.tapia@notaria76.com.mx",
+    "assistants": ["Adrian Salcedo Alvizo", "Daniela Lizeth Zárate Ramírez", "Jaina Xcaret Guzmán Cruz", "Jibran Alejandro Fuentes López", "Mishel Mariana García Ortiz"],
+    "cv_text": "El licenciado Osmar Axel Tapia Pérez es egresado de la Facultad de Derecho de la Universidad Nacional Autónoma de México.\nActualmente es abogado en la notaría 76 de la Ciudad de México a cargo del licenciado Mario Fernando Pérez Salinas y Ramírez."
+  },
+  {
+    "slug": "roman_resendiz_rossetti",
+    "name": "Román Reséndiz Rossetti",
+    "image": "/images/extracted/roman_resendiz_rossetti.jpg",
+    "phone": "55.62.71.31.79",
+    "cell": "55.18.27.29.84",
+    "email": "roman.resendiz@notaria76.com.mx",
+    "assistants": ["Michelle Piñones Lira", "Michelle Casanova Soriano"],
+    "cv_text": "El licenciado Román Reséndiz Rossetti es egresado de la Facultad de Derecho de la Barra Nacional de Abogados.\nActualmente es abogado en la notaría 76 de la Ciudad de México a cargo del licenciado Mario Fernando Pérez Salinas y Ramírez."
+  },
+  {
+    "slug": "saraby_velazquez",
+    "name": "Saraby Montserrat Velázquez Escamilla",
+    "image": "/images/extracted/saraby_velazquez.jpg",
+    "phone": "55 62 71 31 79 Ext. 121",
+    "cell": "55.21.85.17.87",
+    "email": "saraby.velazquez@notaria76.com.mx",
+    "assistants": ["Diana Laura León Mena"],
+    "cv_text": "La licenciada Saraby Velázquez Escamilla es egresada de la Facultad de Derecho de la Universidad Nacional Autónoma de México.\nActualmente es abogada en la notaría 76 de la Ciudad de México a cargo del licenciado Mario Fernando Pérez Salinas y Ramírez."
+  },
+  {
+    "slug": "xareni_ruiz",
+    "name": "Xareni Ruíz Rosales",
+    "image": "/images/extracted/xareni_ruiz.jpg",
+    "phone": "55.62.71.31.79 Ext. 115",
+    "cell": "55.80.31.65.99",
+    "email": "xareni.ruiz@notaria76.com.mx",
+    "assistants": ["Adrián López Ramírez", "Saúl Alessandro Santa Ana Alanis", "Guadalupe Yazmín Cárdenas Acevedo"],
+    "cv_text": "La licenciada Xareni Ruíz Rosales es egresada de la Facultad de Derecho de la Universidad Nacional Autónoma de México.\nActualmente es abogada en la notaría 76 de la Ciudad de México a cargo del licenciado Mario Fernando Pérez Salinas y Ramírez."
+  }
+]
