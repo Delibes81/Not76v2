@@ -40,7 +40,7 @@ export default function Hero() {
               <span className="text-xs uppercase tracking-widest font-bold text-slate-600">Notaría 76 | CDMX</span>
             </motion.div>
             
-            <motion.h1 variants={itemVariants} className="font-serif text-5xl md:text-6xl lg:text-7xl font-bold text-blue leading-[1.1]">
+            <motion.h1 variants={itemVariants} className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-blue leading-[1.1]">
               Certeza jurídica con <span className="text-green italic font-medium">prestigio</span> notarial
             </motion.h1>
             
